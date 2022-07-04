@@ -8,8 +8,9 @@
 #include <cmath>
 #include <set>
 using namespace std;
-void binarySearch(int a){
 
+
+void binarySearch(int a){
 }
 int main(){
     int n,temp; 
@@ -19,3 +20,5 @@ int main(){
         binarySearch(temp);
     }
 }
+
+
