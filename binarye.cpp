@@ -8,3 +8,14 @@
 #include <cmath>
 #include <set>
 using namespace std;
+void binarySearch(int a){
+
+}
+int main(){
+    int n,temp; 
+    cin>>n;
+    for(int i = 0; i < n; i++){
+        cin>>temp;
+        binarySearch(temp);
+    }
+}
